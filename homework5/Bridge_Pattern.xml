@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<className>Bridge_Pattern.Blue</className>
+	<className>Bridge_Pattern.SmallPen</className></config>
